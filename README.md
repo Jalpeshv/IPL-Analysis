@@ -1,5 +1,5 @@
 # IPL-Analysis
-IPL Data Analysis Step-by-Step
+IPL Data Analysis win predictor Step-by-Step
 # Some dataset and reference link
 dataset - https://www.kaggle.com/datasets/ramjidoolla/ipl-data-set<br/>
 dataset - https://www.kaggle.com/datasets/xshahharsh/ipl-2022-ball-by-ball-dataset<br/>
